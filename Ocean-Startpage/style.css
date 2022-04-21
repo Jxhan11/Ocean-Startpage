@@ -1,0 +1,120 @@
+body{
+  background-color: rgb(22, 22, 22);
+}
+/* .grid-container-element{
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  background-color: antiquewhite;
+  border-radius: 8px;
+
+   
+  
+} */
+/* .box-container{
+  padding: 20px;
+  margin: 40px;
+  background-color: rgb(26, 26, 26);
+  height:250px ;
+  width:250px ;
+  box-shadow: -10px -10px 30px;
+  transition: all .2s ease-in-out;
+  
+
+  
+} */
+/* .box-container:hover{
+  transform: scale(1.1);
+}
+.box-container1{
+  padding: 20px;
+  margin-left: 1100px;
+  margin-right: 40px;
+  margin-bottom: 1000px;
+  background-color: rgb(26, 26, 26);
+  height:250px ;
+  width:250px ;
+  box-shadow: -10px -10px 30px;
+  transition: 0.3s;
+  transition: all .2s ease-in-out;
+} */
+/* .box-container1:hover{
+  transform: scale(1.1);
+} */
+
+.box-landscape{
+  position: absolute;
+  top: 13%;
+  left: 6%;
+  padding: 20px;
+  background-color: rgb(27, 27, 27);
+  height:300px ;
+  width: 700px ;
+  box-shadow: -15px 15px 20px rgb(20, 20, 20);
+  transition: all .2s ease-in-out;
+  display: flex;
+  flex-direction: row;
+}
+
+
+/* .box-img0{
+  height: 250px;
+  width: 250px;
+}
+.box-img1{
+  height: 250px;
+  width: 250px;
+  background:url("images/anime.mp4") no-repeat scroll 0% 0% transparent;
+} */
+.box-img2{
+  height: 300px;
+  width: 300px;
+  /* margin-left: 2%; */
+}
+
+
+
+
+.links{
+  /* background-color: antiquewhite; */
+  height: 264px;
+  width: 300px;
+  padding-left: 20px;
+  margin-left: 60px;
+  font-family: CaskaydiaCove Nerd Font;
+  color: aliceblue;
+  font-size: 17px;
+  font-weight:100;
+  padding-top: 30px;
+  border-color: rgb(144, 217, 244);
+  border-style: solid;
+  border-width: 2px;
+
+  
+}
+
+
+h4{
+  margin: 3px;
+  font-weight:300;
+}
+h4:hover{
+  font-weight: 700;
+}
+a:hover{
+  color: rgb(144, 217, 244);
+  font-style: italic;
+  margin-bottom: 2px;
+}
+a{
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.wrapper{
+  background-color: rgb(144, 217, 244);
+  position: relative;
+  height: 300px;
+  width: 700px;
+  margin:200px auto;
+  box-shadow: -10px -10px 30px;
+}

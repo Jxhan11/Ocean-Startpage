@@ -1,0 +1,69 @@
+{
+  "squares": [
+    { "name": "media",
+      "color": "red",
+      "links": [
+        { "name": "Spotify", "url": "https://open.spotify.com/" },
+        { "name": "YoutubeMusic", "url": "https://music.youtube.com/" },
+        { "name": "Netflix", "url": "https://netflix.com" },
+        { "name": "Youtube", "url": "https://youtube.com" }
+      ]
+    },
+    { "name": "work",
+      "color": "#26A69A",
+      "links": [
+        { "name": "Github", "url": "https://github.com" },
+        { "name": "Heroku", "url": "http://heroku.com/" },
+        { "name": "localhost", "url": "http://localhost:8000/" }
+      ]
+    },
+    { "name": "social",
+      "links": [
+        { "name": "Reddit", "url": "https://reddit.com" },
+        { "name": "Unixporn Love", "url": "https://deepjyoti30.github.io/unixporn-love/" },
+        { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" },
+        { "name": "r/mk", "url": "https://www.reddit.com/r/MechanicalKeyboards/" }
+      ]
+    },
+    {
+      "name": "Others",
+      "links": [
+        {"name": "Material Colors", "url": "http://materialuicolors.co/"},
+        {"name": "Gmail", "url": "http://gmail.com/"},
+        {"name": "neo4j Local", "url": "http://localhost:7474/"},
+        {"name": "rarbg", "url": "http://rarbg.to"}
+      ]
+    }
+  ],
+  "title": "startpage",
+  "searchEngine":"DuckDuckGo",
+  "user": "Deepjyoti",
+  "disableMessage": false,
+  "disableDate": false,
+  "disableSearchBar": false,
+  "disable24Hour": false,
+  "disableWeather": true,
+  "timeZone": "America/Los_Angeles",
+  "weatherConf": {
+    "location": "Pune India",
+    "unit": "cel"
+  },
+  "settingsIcon": false,
+  "style": {
+    "backgroundColor": "#212121",
+    "messageColor": "#fff",
+    "dateColor": "#d9d9d9",
+    "lineColor": "#fff",
+    "weatherColor": "#d9d9d9",
+    "searchColor": "#fff",
+    "searchBackgroundColor": "#2e2e2e",
+    "squareColor": "#9e9e9e",
+    "squareBackgroundColor": "#2e2e2e",
+    "autocompleteHighlightBackgroundColor": "#3B3B3B"
+  },
+  "quickLinks": {
+    "r": "https://reddit.com",
+    "g": "https://github.com",
+    "y": "https://youtube.com"
+  }
+}
