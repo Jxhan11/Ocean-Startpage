@@ -6,4 +6,4 @@
 
 NOTE: The links in the html File are all the same.So opening anypage leads you to the same site. Please edit the Html file for the links you want.
 ## Screenshots
-![Screenshot](https://user-images.githubusercontent.com/104138291/164443228-b8f06814-15b5-499d-89b4-056e09b018c7.png)
+![Thu 21 Apr 2022 03_49_29 PM +03](https://user-images.githubusercontent.com/104138291/164462053-8f4fbb5a-d06f-43d0-9977-6785b9ebbfa0.png)
